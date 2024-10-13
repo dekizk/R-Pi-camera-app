@@ -1,6 +1,6 @@
 Basic lil Raspberry Pi camera stream code
 
-  **  📷 Raspberry Pi captures live video using its camera module (v2)
+    📷 Raspberry Pi captures live video using its camera module (v2)
     🖥️ A Python app (using FastAPI) processes the video stream in real-time
     🌐 The app serves the video as an MJPEG stream over HTTP
     🔒 A Cloudflare tunnel securely exposes this local stream to the internet (will include steps on how to do this)
